@@ -219,7 +219,7 @@ a {
 /* End Global Rules */
 /* Start header */
 header {
-  box-shadow: 0 0 15px var(--third-color);
+   box-shadow: 0 0 20px var(--main-color);
 }
 header .container {
   display: flex;
